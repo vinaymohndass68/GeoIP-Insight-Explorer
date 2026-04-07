@@ -1,0 +1,7 @@
+{
+  "name": "GeoIP Insight Explorer",
+  "description": "A sophisticated IP address tracker and geolocation visualizer with AI-powered regional insights using Gemini.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
